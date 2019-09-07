@@ -1,0 +1,28 @@
+body{
+	margin: 0;
+	font-family: Helvetica, Arial, sans serif;
+}
+.main-header{
+	background-color: lightblue;
+	background-image: url(https://i.pinimg.com/originals/b1/13/bd/b113bd79353cb74193cf935236663043.jpg);
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+}
+
+header{
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 20px;
+}
+
+header h1{
+	color: lightcyan;
+	font-family: 'Indie Flower', cursive;
+	font-size: 50px;
+}
+
+header img{
+	border-radius: 170px;
+	width: 300px;
+	border: 17px solid lightcyan;
+}
