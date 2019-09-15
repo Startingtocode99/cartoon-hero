@@ -26,3 +26,8 @@ header img{
 	width: 300px;
 	border: 17px solid lightcyan;
 }
+
+header h2{
+	font-family: "indie Flower, cursive";
+	font-size: 30px;
+}
