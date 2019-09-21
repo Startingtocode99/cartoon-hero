@@ -1,6 +1,8 @@
 body{
 	margin: 0;
-	font-family: Helvetica, Arial, sans serif;
+	font-family: 'indie flower', cursive;
+	font-size: 25px;
+	line-height: 30px;
 }
 .main-header{
 	background-color: lightblue;
@@ -30,4 +32,42 @@ header img{
 h2{
 	font-family: 'indie flower', cursive;
 	font-size: 30px;
+	text-align: center;
+	color: #85EAFF;
 }
+
+main {
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 20px;
+}
+
+main img{
+	max-width: 100%
+}
+
+a{
+	color: #85EAFF;
+}
+a:hover{
+	color: #501DB4;
+}
+
+footer{
+	background-color: lightblue;
+	text-align: center;
+	padding: 50px
+}
+
+footer p{
+	margin: 0;
+	color: white;
+	font-style: bold;
+ }
+
+ .caption{
+ 	color: #999999;
+ 	margin-top: 0px;
+ 	font-size: 20px;
+ 	font-style: italic;
+ }
